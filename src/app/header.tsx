@@ -34,7 +34,7 @@ export const Header = () => {
         className={connectContainer}
       >
         <Box as="a" href="https://docs.stakek.it/docs" target="_blank">
-          <Text variant={{ size: "small", weight: "normal", type: "muted" }}>
+          <Text variant={{ size: "small", weight: "bold", type: "muted" }}>
             Docs
           </Text>
         </Box>
