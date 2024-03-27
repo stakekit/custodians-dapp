@@ -11,8 +11,8 @@
   "dependencies": {
     "@stakekit/widget": "^0.0.77",
     "@types/node": "20.10.3",
-    "@types/react": "18.2.41",
-    "@types/react-dom": "18.2.17",
+    "@types/react": "18.2.73",
+    "@types/react-dom": "18.2.22",
     "@vanilla-extract/css": "^1.14.0",
     "@vanilla-extract/dynamic": "^2.1.0",
     "@vanilla-extract/next-plugin": "^2.3.2",
